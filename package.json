@@ -1,0 +1,28 @@
+{
+  "name": "ltp-cloud",
+  "version": "1.0.1",
+  "description": "语言云的中文分词服务",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeBB-China/ltp-cloud.git"
+  },
+  "keywords": [
+    "ltp-cloud",
+    "分词",
+    "中文分词"
+  ],
+  "author": "a632079",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/NodeBB-China/ltp-cloud/issues"
+  },
+  "homepage": "https://github.com/NodeBB-China/ltp-cloud#readme",
+  "dependencies": {
+    "request":"2.81.0",
+    "query-string":"4.3.3"
+  }
+}
